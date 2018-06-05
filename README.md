@@ -3,7 +3,7 @@ Drive the Ableton Push 2 Display with Touchdesigner
 
 Please see http://futurewife.tv/touch2push for more info
 
-I cannot claim that this software will not damage your Push 2 since I haven't done enough testing to ensure that it is safe, so use at your own risk! It is technically possible to brick your Push 2 by sending the wrong frame header (accidentally sending the "flash firmware" header). This code *should* never do that, but if you modify the frame header in the source this becomes a possibility.
+I cannot claim that this software will not damage your Push 2 since I haven't done enough testing to ensure that it is safe, so use at your own risk! It is technically possible to brick your Push 2 by sending the wrong frame header (accidentally sending the "flash firmware" header). This code *shouldn't* do that, but if you modify the frame header in the source this becomes a possibility.
 
 I used sample code from Ableton's Push 2 Github to get started: https://github.com/Ableton/push-interface/blob/master/doc/AbletonPush2MIDIDisplayInterface.asc and had to reference their example with JUCE quite a bit to figure out how to do the nitty gritty stuff: https://github.com/Ableton/push2-display-with-juce
 
