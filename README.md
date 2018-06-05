@@ -21,6 +21,6 @@ Installation:
 
 4. Open "CHOP/Push2CHOP.sln" in Visual Studio 2015 and build the dll
 
-5. Install Touchdesigner, then open touchdesigner/touch2push.toe (my version of Touchdesigner was 23440 at the time of writing this). Select the cpluspluschop operator, go the the custom paramters, and click "open". This should connect to the Push 2 plugged into your computer and send to the display.
+5. Install Touchdesigner, then open touchdesigner/touch2push.toe (my version of Touchdesigner was 23120 at the time of writing this). Select the cpluspluschop operator, go the the custom paramters, and click "open". This should connect to the Push 2 plugged into your computer and send to the display.
 
 6. Make sure you click "close" on the cpluspluschop before your close Touchdesigner (if anyone has an alternative to needed to click close before closing touch, please let me know!)
