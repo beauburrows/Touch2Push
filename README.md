@@ -1,7 +1,7 @@
 # Touch2Push
 Drive the Ableton Push 2 Display with Touchdesigner
 
-Please see http://futurewife.tv/touch2push for more info
+Please see http://futurewife.tv/touch2push for more info, and check out a video of it in action here: https://www.reddit.com/r/ableton/comments/8olsrw/hacked_push_2_for_custom_content_on_display/
 
 I cannot claim that this software will not damage your Push 2 since I haven't done enough testing to ensure that it is safe, so use at your own risk! It is technically possible to brick your Push 2 by sending the wrong frame header (accidentally sending the "flash firmware" header). This code *shouldn't* do that, but if you modify the frame header in the source this becomes a possibility.
 
